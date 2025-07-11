@@ -1,0 +1,66 @@
+body {
+background: linear-gradient(to bottom right, #3e8481, #b5ffff);
+display: flex;
+flex-flow: column nowrap;
+}
+
+.flexbox {
+height: 39%;
+background: linear-gradient(to bottom right, #40e0d0, #40e0d0,white, #40e0d0);
+position: absolute;
+left: 5%;
+right: 5%;
+top: 35%;
+border-radius: 12px;
+box-shadow: 0 0 20px 10px #14425a;
+border: 2px solid #3e8481;
+opacity: 0.6;
+flex-flow: row nowrap;
+display: flex;
+}
+
+.mensaje {
+height: auto;
+background-color: #3e8481;
+z-index: 15;
+padding: 8px;
+opacity: 0.8;
+position: absolute;
+right: 8px;
+left: 8px;
+top: -10px;
+border-radius: 12px;
+text-align: center;
+font-size: 18.5px;
+font-style: italic;
+}
+
+.blackpink {
+width: 100%;
+height: 100%;
+position: absolute;
+border-radius: 12px;
+align-item: center;
+z-index: 10;
+}
+
+.sorpresa {
+width: 100px;
+height: auto;
+background-color: white;
+padding: 6px;
+border-radius: 10px;
+}
+
+a:link {
+color: #3e8481;
+text-decoration: none
+}
+
+a:visited {
+background-color: #b5ffff
+}
+
+strong {
+color: #3e8481b;
+}
