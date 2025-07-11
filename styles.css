@@ -5,7 +5,7 @@ flex-flow: column nowrap;
 }
 
 .flexbox {
-height: 37%;
+height: 34%;
 background: linear-gradient(to bottom right, #40e0d0, #40e0d0,white, #40e0d0);
 position: absolute;
 left: 5%;
