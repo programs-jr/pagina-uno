@@ -14,7 +14,7 @@ body {
 }
 
 .flexbox {
- height: 40vh;
+ height: 30vh;
  background-image: url("http://imgfz.com/i/eBIcMC6.jpeg");
  background-size: 100% 100%;
  max-width: 360px;
@@ -27,7 +27,7 @@ body {
 }
 
 .mensaje {
- height: 80%;
+ height: 60%;
  background-color: #ad7677;
  z-index: 15;
  padding: 12px 8px;
@@ -73,3 +73,4 @@ a:hover {
 strong {
  color: #3e8481b;
 }
+
