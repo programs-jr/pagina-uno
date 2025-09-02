@@ -27,7 +27,7 @@ body {
 }
 
 .mensaje {
- height: 90%;
+ height: 85%;
  background-color: #ad7677;
  z-index: 15;
  padding: 12px 8px;
@@ -73,5 +73,6 @@ a:hover {
 strong {
  color: #3e8481b;
 }
+
 
 
